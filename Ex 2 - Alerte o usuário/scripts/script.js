@@ -1,0 +1,1 @@
+window.alert("Isto é um alerta!")
